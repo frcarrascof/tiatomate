@@ -1,0 +1,67 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.principal{
+	background-color: #D36A5B;
+	text-align: center;
+	padding: 6%;
+}
+
+.principal__title{
+	color: white;
+}
+
+.principal__title--btn{
+	width:30%;
+	font-weight: bold;
+	color: #707070;
+	font-size: 1.75rem;
+	border-radius: 26px;
+	padding: 5px 10px;
+}
+
+.tomatitos{
+	background-color: #676964;
+}
+
+.tomatitos__parrafoclaro{
+	padding: 3%;
+	color: white;
+}
+
+.tomatitos__claro{
+	background-color: #FAFAFA;
+}
+
+.tomatitos__parrafooscuro{
+	padding: 3%;
+	color:#707070;
+}
+
+.quienessomos{
+	padding: 4%;
+	background-color: white;
+	color: #707070;
+
+}
+
+.quienessomos__titulo{
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.footer{
+	background-color: #707070;
+}
+
+.footer_info--text a{
+	color:#FAFAFA;
+}
+
+.footer__info--icons{
+	border-radius: 100%;
+	color: #FFFFFF;
+	padding: 8px;
+}
