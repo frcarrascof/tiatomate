@@ -4,3 +4,4 @@
 -Dar enfásis a la compra de sus productos<br>
 -Mostrar el logo de la empresa
 
+<img src="Sketch.png">
